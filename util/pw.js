@@ -1,6 +1,6 @@
-const status = "AUTOMATIC";
-const botName = "💎 PRIME MUSIC";
-const Text = "GlaceYT";
+const status = "MUSIC";
+const botName = "SONGTRIBE MUSIC";
+const Text = "UltraBot";
 const version = "Latest@ v1.0"; 
 const startTime = Date.now();
 
